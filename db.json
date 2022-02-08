@@ -1,74 +1,82 @@
-{
-  "author": {
-    "name": "String",
-    "lastname": "String"
-  },
-  "item": {
-    "id": "1",
-    "title": "Producto1",
-    "price": {
-      "currency": "AR$",
-      "amount": "25",
-      "decimals": "50"
+[
+  {
+    "author": {
+      "name": "String",
+      "lastname": "String"
     },
-    "picture": "String",
-    "condition": "Efectivo",
-    "free_shipping": "true",
-    "sold_quantity": "22",
-    "description": "Descripcion producto1"
+    "item": {
+      "id": "1",
+      "title": "Producto1",
+      "price": {
+        "currency": "AR$",
+        "amount": "25",
+        "decimals": "50"
+      },
+      "picture": "String",
+      "condition": "Efectivo",
+      "free_shipping": "true",
+      "sold_quantity": "22",
+      "description": "Descripcion producto1"
+    }
   },
-  "author": {
-    "name": "String",
-    "lastname": "String"
-  },
-  "item": {
-    "id": "2",
-    "title": "Producto2",
-    "price": {
-      "currency": "AR$",
-      "amount": "30",
-      "decimals": "50"
+  {
+    "author": {
+      "name": "String",
+      "lastname": "String"
     },
-    "picture": "String",
-    "condition": "Efectivo",
-    "free_shipping": "false",
-    "sold_quantity": "77",
-    "description": "Descripcion producto2"
+    "item": {
+      "id": "2",
+      "title": "Producto2",
+      "price": {
+        "currency": "AR$",
+        "amount": "30",
+        "decimals": "50"
+      },
+      "picture": "String",
+      "condition": "Efectivo",
+      "free_shipping": "false",
+      "sold_quantity": "77",
+      "description": "Descripcion producto2"
+    }
   },
-  "author": {
-    "name": "String",
-    "lastname": "String"
-  },
-  "item": {
-    "id": "3",
-    "title": "Producto3",
-    "price": {
-      "currency": "AR$",
-      "amount": "40",
-      "decimals": "50"
+  {
+    "author": {
+      "name": "String",
+      "lastname": "String"
     },
-    "picture": "String",
-    "condition": "Efectivo",
-    "free_shipping": "true",
-    "sold_quantity": "2",
-    "description": "Descripcion producto3"
+    "item": {
+      "id": "3",
+      "title": "Producto3",
+      "price": {
+        "currency": "AR$",
+        "amount": "40",
+        "decimals": "50"
+      },
+      "picture": "String",
+      "condition": "Efectivo",
+      "free_shipping": "true",
+      "sold_quantity": "2",
+      "description": "Descripcion producto3"
+    }
   },
-  "author": {
-    "name": "String",
-    "lastname": "String"
-  },
-  "item": {
-    "id": "4",
-    "title": "Producto4",
-    "price": {
-      "currency": "AR$",
-      "amount": "25",
-      "decimals": "50"
+  {
+    "author": {
+      "name": "String",
+      "lastname": "String"
     },
-    "picture": "String",
-    "condition": "Efectivo",
-    "free_shipping": "false",
-    "sold_quantity": "252",
-    "description": "Descripcion producto4"
+    "item": {
+      "id": "4",
+      "title": "Producto4",
+      "price": {
+        "currency": "AR$",
+        "amount": "25",
+        "decimals": "50"
+      },
+      "picture": "String",
+      "condition": "Efectivo",
+      "free_shipping": "false",
+      "sold_quantity": "252",
+      "description": "Descripcion producto4"
+    }
   }
-}
+]
