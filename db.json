@@ -1,8 +1,8 @@
 [
   {
     "author": {
-      "name": "String",
-      "lastname": "String"
+      "name": "Titulo1",
+      "lastname": "Titulo1"
     },
     "item": {
       "id": "1",
@@ -21,8 +21,8 @@
   },
   {
     "author": {
-      "name": "String",
-      "lastname": "String"
+      "name": "Nombre2",
+      "lastname": "Titulo2"
     },
     "item": {
       "id": "2",
@@ -41,8 +41,8 @@
   },
   {
     "author": {
-      "name": "String",
-      "lastname": "String"
+      "name": "Nombre3",
+      "lastname": "Titulo3"
     },
     "item": {
       "id": "3",
@@ -61,8 +61,8 @@
   },
   {
     "author": {
-      "name": "String",
-      "lastname": "String"
+      "name": "Nombre4",
+      "lastname": "Titulo4"
     },
     "item": {
       "id": "4",
